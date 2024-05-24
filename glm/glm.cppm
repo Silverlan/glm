@@ -1140,6 +1140,7 @@ export namespace glm {
 	using glm::unpackUnorm2x16;
 	using glm::unpackUnorm4x8;
 	using glm::usubBorrow;
+	using glm::quat_cast;
 
 #   ifdef GLM_GTC_INLINE_NAMESPACE
 	inline
