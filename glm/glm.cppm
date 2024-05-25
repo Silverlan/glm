@@ -1141,6 +1141,8 @@ export namespace glm {
 	using glm::unpackUnorm4x8;
 	using glm::usubBorrow;
 	using glm::quat_cast;
+	using glm::detail::toFloat16;
+	using glm::detail::toFloat32;
 
 #   ifdef GLM_GTC_INLINE_NAMESPACE
 	inline
