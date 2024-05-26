@@ -1141,6 +1141,10 @@ export namespace glm {
 	using glm::unpackUnorm4x8;
 	using glm::usubBorrow;
 	using glm::quat_cast;
+	using glm::mat2x4_cast;
+	using glm::mat3_cast;
+	using glm::mat3x4_cast;
+	using glm::mat4_cast;
 	using glm::detail::toFloat16;
 	using glm::detail::toFloat32;
 	using glm::detail::u10u10u10u2;
